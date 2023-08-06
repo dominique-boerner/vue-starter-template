@@ -12,6 +12,7 @@ Vite for bundling and development, Tailwind CSS for styling, and TypeScript for 
 - **TypeScript**: A strict syntactical superset of JavaScript that adds optional static typing.
 - **Prettier**: An opinionated code formatter, ensuring that code conforms to a consistent style.
 - **PostCSS & Autoprefixer**: Process CSS and automatically add vendor prefixes to CSS rules.
+- **Vitest**: A unit-testing framework for vite applications.
 
 ## Getting Started
 
