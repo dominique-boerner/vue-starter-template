@@ -10,7 +10,6 @@ Vite for bundling and development, Tailwind CSS for styling, and TypeScript for 
 - **Vue 3**: Progressive JavaScript framework for building user interfaces.
 - **TailwindCSS**: A utility-first CSS framework for rapidly building custom designs.
 - **TypeScript**: A strict syntactical superset of JavaScript that adds optional static typing.
-- **Playwright**: Helps in end-to-end testing for modern web apps.
 - **Prettier**: An opinionated code formatter, ensuring that code conforms to a consistent style.
 - **PostCSS & Autoprefixer**: Process CSS and automatically add vendor prefixes to CSS rules.
 
